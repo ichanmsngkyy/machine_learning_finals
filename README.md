@@ -51,7 +51,7 @@ On Windows:
 
 4. **Running the Application**
 
-```python streamlit.py```
+```streamlit run streamlit.py```
 
 **Model Performance**
 ### Best Model: Random Forest

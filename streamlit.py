@@ -90,7 +90,7 @@ def predict_fraud(features_dict, model, scaler):
 
 # Streamlit App Configuration
 st.set_page_config(layout="wide", page_title="Fraud Detection System")
-st.title("Fraud Detection System")
+st.title("FraudNet")
 st.markdown("---")
 
 # Load model at startup
