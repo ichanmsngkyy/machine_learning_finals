@@ -1,4 +1,4 @@
-**Fraud Detection in Digital Transactions**
+**FraudNet**
 
 A machine learning project that detects fraudulent transactions using behavioral patterns and transaction features. Built with Python and scikit-learn.
 
