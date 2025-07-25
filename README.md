@@ -58,10 +58,10 @@ On Windows:
 
 | Metric | Score | Explanation |
 |--------|-------|-------------|
-| **Recall** | 68.35% | Catches 68% of actual fraud cases |
-| **Precision** | 1.41% | 1.4% of flagged transactions are fraud |
-| **F1-Score** | 2.77% | Balanced precision-recall measure |
-| **Accuracy** | 95.1% | Overall prediction accuracy |
+| **Recall** | 54.11% | Catches 54.11% of actual fraud cases |
+| **Precision** | 51.33% | 51.33% of flagged transactions are fraud |
+| **F1-Score** | 52.68% | Balanced precision-recall measure |
+| **Accuracy** | 97.49% | Overall prediction accuracy |
 
 **How It Works**
 1. **Data Processing**
