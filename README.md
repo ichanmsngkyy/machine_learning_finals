@@ -17,9 +17,9 @@ Time-based behavioral indicators
 
 **Key Results:**
 
-68.35% Recall - Successfully catches 68% of fraud cases
-6.2M+ Transactions processed
-3 ML Algorithms compared (Random Forest, Logistic Regression, Neural Network)
+54.11% Recall - Successfully catches 54.11% of fraud cases
+318,131 Transactions processed
+2 ML Algorithms compared (Random Forest, Rule-Based)
 
 **Quick Start**
 Prerequisites
@@ -78,7 +78,7 @@ python# Key features created:
 
 3. Model Training
 
-Compares 3 algorithms: Random Forest, Logistic Regression, Neural Network
+Compares 2 algorithms: Random Forest, Rule-Based
 Uses stratified sampling to handle class imbalance
 Optimizes for fraud detection (high recall)
 
