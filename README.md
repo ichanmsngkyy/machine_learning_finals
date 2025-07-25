@@ -30,19 +30,27 @@ pip package manager
 **Installation**
 
 1. **Clone the repository**
+
 ```git clone <your-repo-url>```
+
 ```cd machine_learning_finals```
 
 2. **Create virtual environment**
+
 ```python3 -m venv fraud_detection_env```
+
 ```source fraud_detection_env/bin/activate``` 
+
 On Windows: 
+
 ```source fraud_detection_env\Scripts\activate```
 
 3. **Install dependencies**
+
 ```pip install -r requirements.txt```
 
 4. **Running the Application**
+
 ```python streamlit.py```
 
 **Model Performance**
