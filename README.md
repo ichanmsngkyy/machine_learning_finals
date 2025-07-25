@@ -83,16 +83,21 @@ Uses stratified sampling to handle class imbalance
 Optimizes for fraud detection (high recall)
 
 4. **Fraud Detection Logic**
+
 FRAUD ALERT triggered when:
 
 AI Model Probability ≥ 50% (Machine learning prediction)
+
 No hard-coded rules for amount or timing
+
 Pure model-based decision making
 
 Risk Thresholds:
 
 0-50% Risk: ✅ Transaction Approved (Process normally)
+
 50-75% Risk: ⚠️ Manual Review Required (Contact bank)
+
 76-100% Risk: 🚫 Transaction Blocked (Block and investigate)
 
 **Requirements**
